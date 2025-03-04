@@ -43,7 +43,7 @@ The data was collected from 5 undergraduate male participants (ages 19-22) from 
 - **VR Headset**: Oculus Quest™ for the VR stress scenario.
 
 ### Framework Depiction
-![Proposed Framework](images/Depiction of Proposed Framework.jpg)
+![Proposed Framework] (images/Depiction of Proposed Framework.jpg)
 
 ## Usage
 
