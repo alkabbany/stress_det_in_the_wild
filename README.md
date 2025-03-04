@@ -1,1 +1,1 @@
-# stress_det_in_the_wild
+# Cross-Context Stress Detection: Evaluating Machine Learning Models on Heterogeneous Stress Scenarios Using EEG Signals
