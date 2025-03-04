@@ -24,6 +24,8 @@ The dataset is provided in the following format:
 - **File Format**: Data is provided as MAT files.
 <!-- - **Feature Extraction**: Additional files containing derived features from time-frequency analysis (e.g., median frequency, power spectral moments, etc.). -->
 
+![Proposed Framework](images/ElectrodePositions.png)
+
 <!-- ### Columns in EEG Data --> 
 
 <!-- - **Timestamp**: The time at which each data point was recorded. --> 
