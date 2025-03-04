@@ -42,6 +42,9 @@ The data was collected from 5 undergraduate male participants (ages 19-22) from 
 - **EEG Headset**: MUSE S™ EEG headbands.
 - **VR Headset**: Oculus Quest™ for the VR stress scenario.
 
+### Framework Depiction
+![Proposed Framework](images/Depiction of Proposed Framework.jpg)
+
 ## Usage
 
 This dataset is intended for research on cross-context stress detection and ML-based models for stress classification. You may use this dataset to explore various ML models (e.g., SVM, LDA, KNN) and denoising techniques for EEG signal processing and stress detection.
